@@ -12,7 +12,7 @@
 -	Developed a Gradient Boosting Regression model to generate continuous propensity scores, reducing RMSE to 0.0208 for accurate customer ranking.
 -	Delivered actionable business insights for personalized marketing, loyalty programs, and reactivation campaigns, enhancing customer engagement and retention strategies.
 
-Link - https://bo-neau.github.io/machine-learning-project.github.io/
+[Machine Learning Project](https://bo-neau.github.io/machine-learning-project.github.io/)
 
 **BUSINESS ANALYSIS & SALES INSIGHTS DASHBOARD**
 -	Conducted a comprehensive global sales analysis (2019–2022), identifying seasonal trends, regional performance differences, and product profitability.
@@ -20,7 +20,7 @@ Link - https://bo-neau.github.io/machine-learning-project.github.io/
 -	Built product performance dashboards, uncovering high-value categories (technology, phones, copiers) and low-performing ones requiring strategic review.
 -	Analysed post-holiday sales fluctuations, discount effectiveness, and operational efficiency to propose predictive models and cost-optimization strategies.
 
-Link - https://bo-neau.github.io/Business-Analytics.io/
+[Global Sales Analysis Project] (https://bo-neau.github.io/Business-Analytics.io/)
 
 **STATISTICAL RESEARCH PROJECT - CUSTOMER LOYALTY & MARKET EXPANSION**
 -	Conducted mixed-methods research using surveys (5,000+ Marriott guests) and focus groups, applying stratified random sampling to ensure representative insights.
