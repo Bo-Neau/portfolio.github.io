@@ -11,6 +11,7 @@
 -	Built classification models (Logistic Regression, Random Forest) to predict customer purchase likelihood, achieving AUC > 0.93, supporting targeted marketing strategies.
 -	Developed a Gradient Boosting Regression model to generate continuous propensity scores, reducing RMSE to 0.0208 for accurate customer ranking.
 -	Delivered actionable business insights for personalized marketing, loyalty programs, and reactivation campaigns, enhancing customer engagement and retention strategies.
+
 Link - https://bo-neau.github.io/machine-learning-project.github.io/
 
 **BUSINESS ANALYSIS & SALES INSIGHTS DASHBOARD**
@@ -18,6 +19,7 @@ Link - https://bo-neau.github.io/machine-learning-project.github.io/
 -	Designed customer segmentation insights that revealed consistent 12% profit margins across segments and highlighted APAC as the top revenue driver.
 -	Built product performance dashboards, uncovering high-value categories (technology, phones, copiers) and low-performing ones requiring strategic review.
 -	Analysed post-holiday sales fluctuations, discount effectiveness, and operational efficiency to propose predictive models and cost-optimization strategies.
+
 Link - https://bo-neau.github.io/Business-Analytics.io/
 
 **STATISTICAL RESEARCH PROJECT - CUSTOMER LOYALTY & MARKET EXPANSION**
